@@ -1,0 +1,3 @@
+user.name=application-default
+user.address=mumbai
+user.profiles=default

@@ -1,0 +1,3 @@
+user.name=client-app-config
+user.address=Pune
+user.profiles=default

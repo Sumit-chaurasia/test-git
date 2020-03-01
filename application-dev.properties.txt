@@ -1,0 +1,3 @@
+user.name=application-Dev
+user.address=Navi mumbai
+user.profiles=Dev
